@@ -1,4 +1,4 @@
-# Jeffrey L Diamond [![Build Status](https://api.travis-ci.org/travis-ci/travis-core.png?branch=master)](https://travis-ci.org/travis-ci/travis-core)
+# Jeffrey L Diamond [![Build Status](https://api.travis-ci.org/owzzz/jeffery_diamond.com.png?branch=master)](https://travis-ci.org/owzzz/jeffery_diamond.com)
 
 ####Introduction
 
