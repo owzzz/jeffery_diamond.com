@@ -5,6 +5,7 @@ before_install:
 - 'gem install sass'
 - 'gem install bundler'
 - 'npm install -g grunt-cli'
+- 'npm install -g bower'
 - 'bower install'
 install: npm install
 before_script: grunt dist
