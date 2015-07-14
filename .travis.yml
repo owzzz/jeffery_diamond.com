@@ -2,9 +2,9 @@ language: node_js
 node_js:
   - "0.12.7"
 before_install: 
-	- 'gem install sass'
-	- 'gem install bundler'
-	- 'npm install -g grunt-cli'
-	- 'bower install'
+- 'gem install sass'
+- 'gem install bundler'
+- 'npm install -g grunt-cli'
+- 'bower install'
 install: npm install
 before_script: grunt dist
